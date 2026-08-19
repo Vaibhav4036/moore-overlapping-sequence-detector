@@ -70,7 +70,17 @@ The corresponding testbenches are included in each directory.
 
 They apply different input sequences to the FSM and verify the detector output.
 
-Waveform screenshots can be added to this repository after simulation.
+### Moore Overlapping Sequence Detector — 101
+
+The following waveform shows the simulation of the `101` overlapping sequence detector.
+
+![101 Sequence Detector Waveform](101/waveform_101.png)
+
+### Moore Overlapping Sequence Detector — 1011
+
+The following waveform shows the simulation of the `1011` overlapping sequence detector.
+
+![1011 Sequence Detector Waveform](1011/waveform_1011.png)
 
 ## Learning Outcomes
 
